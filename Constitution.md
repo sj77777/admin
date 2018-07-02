@@ -1,4 +1,4 @@
-Objectives and purpose 
+# Objectives and purpose 
 
 2.	The objectives of this By-Law are: 
 

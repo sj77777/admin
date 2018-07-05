@@ -40,7 +40,7 @@ _For detailed annual expenses please see [our annual budget](annual-budget.md)_
 
 Sponsorship Opportunities
 =======
-Sponsorship with Adelaide Blockchain is a unique opportunity to support our initiative in instilling the ethos of Blockchain into a large community and talented network. Adelaide Blockchain will give your brand exposure within our community and grant you preliminary access to an increasing talent pool of individuals, eager to contribute to one of the fastest growing industries in the world.
+Sponsorship with Adelaide Blockchain is a unique opportunity to support our initiative in instilling the ethos of Blockchain into a large community and talented network. Adelaide Blockchain will give your brand exposure within our community and grant you preliminary access to an increasing talent pool of individuals eager to contribute to one of the fastest growing industries in the world.
 Our sponsorship packages are detailed below:
 
 * Enterprise Sponsorship: $4000 AUD (or equivalent)

@@ -1,9 +1,87 @@
-**CONSTITUTION OF**
+# CONSTITUTION OF 
+# ADELAIDE BLOCKCHAIN ASSOCIATION INC.
 
-**ADELAIDE BLOCKCHAIN ASSOCIATION INC.**
+- Examples of how to make a table of content
+1. [Introduction](#introduction)
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
+
+## This is the introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style
+
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text
+
+### Sub paragraph <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style
+
+## Another paragraph <a name="paragraph2"></a>
+The second paragraph text
+
+
+1. #### [PART ONE – GENERAL](##Name)
+... 1.1 [Name	3](##Name)
+
+Objectives and purpose	3
+Interpretation	4
+Relationship to By – Laws	5
+PART TWO – MEMBERSHIP	6
+Division one – Membership	6
+Membership	6
+Executive Membership	6
+Membership rights	6
+Division Two – Cessation of Membership	7
+Cessation of Membership	7
+PART THREE – THE COMMITTEE	7
+Division One – Composition of the Committee	7
+Composition of the Executive Committee	7
+Term of Office	8
+Division Two – Administration of the Association	8
+Powers	8
+Duties of Officers	9
+Indemnities	9
+Division Three – Vacancies, Sub-Committees and Co-Opted Officers	9
+Meaning of Vacancy	9
+Division Four – Resignation and Disqualification	10
+Cessation of Office	10
+Grounds of Dismissal from Office	10
+Motion to Dismiss	11
+PART FOUR – FINANCE AND ADMINISTRATION	11
+Division One – General	11
+Powers of the Association	11
+Accounts	12
+Appropriation of Funds	12
+Application of Assets	12
+Prohibition Against Distribution of Assets to Members	12
+Books and Records (Finance)	13
+Books and Records (General)	13
+Execution of Documents	14
+Division Two – Dissolution and Winding Up	14
+Distribution of Funds and Assets	14
+PART FIVE – MEETINGS	14
+Division One – Meetings Generally	14
+Meetings of the Executive Committee	15
+Annual General Meeting	15
+Special General Meeting	15
+Division Two – Conduct of Meetings	16
+Conduct of Meetings	16
+Voting – Eligibility to Vote	16
+Voting – Ordinary Resolutions	17
+Voting – Special Resolutions	17
+Minutes of Meetings	17
+PART SIX – ELECTIONS	18
+Conduct of Elections	18
+Timing of Elections	18
+Notice of Elections – Voting	18
+PART SEVEN – AMENDMENTS AND BY- LAWS	19
+Alterations to the Constitution	19
+By – Laws	19
+
+
 
 PART ONE – GENERAL
-==================
+------
 
 ### Name
 
@@ -126,10 +204,9 @@ PART ONE – GENERAL
 >   inconsistency.
 
 PART TWO – MEMBERSHIP
-=====================
+------
 
-Division one – Membership
--------------------------
+## Division one – Membership
 
 ### Membership
 
@@ -188,10 +265,9 @@ Division Two – Cessation of Membership
 13.4 Otherwise provides notice in writing seeking to cease their membership.
 
 PART THREE – THE COMMITTEE
-==========================
+------
 
-Division One – Composition of the Committee
--------------------------------------------
+## Division One – Composition of the Committee
 
 ### Composition of the Executive Committee
 
@@ -231,8 +307,8 @@ Division One – Composition of the Committee
 >   election at the AGM to the last day prior to the AGM of the following
 >   calendar year.
 
-Division Two – Administration of the Association
-------------------------------------------------
+
+## Division Two – Administration of the Association
 
 ### Powers
 
@@ -285,8 +361,8 @@ an Officer
 
 >   19.6 Not acted (or continued to act) with negligence.
 
-Division Three – Vacancies, Sub-Committees and Co-Opted Officers
-----------------------------------------------------------------
+
+## Division Three – Vacancies, Sub-Committees and Co-Opted Officers
 
 ### Meaning of Vacancy
 
@@ -311,8 +387,8 @@ Division Three – Vacancies, Sub-Committees and Co-Opted Officers
 
 >   21.3 Take no action.
 
-Division Four – Resignation and Disqualification
-------------------------------------------------
+
+## Division Four – Resignation and Disqualification
 
 ### Cessation of Office
 
@@ -368,10 +444,9 @@ Division Four – Resignation and Disqualification
 >   allegations relating to the proposed motion.
 
 PART FOUR – FINANCE AND ADMINISTRATION
-======================================
+------
 
-Division One – General
-----------------------
+## Division One – General
 
 ### Powers of the Association
 
@@ -479,8 +554,7 @@ Division One – General
 >   of the Executive may execute documents on behalf of the Association on
 >   Ordinary Resolution of the General Committee.
 
-Division Two – Dissolution and Winding Up
------------------------------------------
+## Division Two – Dissolution and Winding Up
 
 >   35. Subject to any requirement of the Act or any other law, the Association
 >   may be entered into voluntary administration by Special Resolution of a
@@ -504,10 +578,9 @@ Division Two – Dissolution and Winding Up
 >   sponsors.
 
 PART FIVE – MEETINGS
-====================
+------
 
-Division One – Meetings Generally
----------------------------------
+## Division One – Meetings Generally
 
 >   38. The General Committee will meet at times as deemed necessary and
 >   appropriate by the Executive Committee.
@@ -567,8 +640,7 @@ Division One – Meetings Generally
 >   44.4. Notice of a Special General Meeting is to be posted on the website of
 >   the Association and any public notice board controlled by the Association.
 
-Division Two – Conduct of Meetings
-----------------------------------
+## Division Two – Conduct of Meetings
 
 ### Conduct of Meetings
 
@@ -646,7 +718,7 @@ Division Two – Conduct of Meetings
 >   Committee.
 
 PART SIX – ELECTIONS
-====================
+------
 
 ### Conduct of Elections
 
@@ -693,7 +765,7 @@ Voting – Secret Ballot
 64. All voting for all elections must be done by secret ballot.
 
 PART SEVEN – AMENDMENTS AND BY- LAWS
-====================================
+------
 
 ###  Alterations to the Constitution
 
@@ -732,3 +804,5 @@ PART SEVEN – AMENDMENTS AND BY- LAWS
 >   70. Any adoption, amendment or repeal of any By-Law must be ratified by
 >   Ordinary Resolution at the immediately following Annual General Meeting or
 >   Special General Meeting.
+
+

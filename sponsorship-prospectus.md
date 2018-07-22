@@ -1,9 +1,8 @@
 About us
 =======
-Adelaide Blockchain is a student run multi-university and interdisciplinary Blockchain organisation based in Adelaide, Australia. Our organisation is dedicated to create awareness, engage and educate students and the wider community about Blockchain technology.
-We collectively believe that Blockchain and other Web 3.0 technologies will fundamentally disrupt many aspects of the global economy. By encouraging education and collaboration in both a practical and theoretical sense we can facilitate the movement towards a distributed economy.
+Adelaide Blockchain is a student run, multi-university and interdisciplinary Blockchain organisation based in Adelaide, Australia. Our organisation is dedicated to engage and educate students and the wider community about Blockchain technology. We collectively believe that Blockchain and other Web 3.0 technologies will fundamentally disrupt many aspects of the global economy. By encouraging education, collaboration and providing consultation not only locally with students, universities, incubator and venture initiatives, but also at the national and international scale, we wish to contribute to the movement towards a distributed economy.
 
-We wish to work with local, national and global Blockchain initiatives to benefit from your experience, knowledge and sponsorship to truly develop our vision. By running meetups, workshops, boot camps, hackathons, industry panels’ discussions and more, we believe our university organisation has a unique opportunity to engage local talent networks and facilitate collaboration to work seamlessly within the broader global blockchain community. 
+In order to truly develop this vision, we believe partnering with you, to learn from experience, knowledge, network and mentorship will be pivotal to our success. By running meetups, workshops, boot camps, hackathons, conferences and more, we believe our organisation has built a strong ecosystem, which has an unique ability to engage local talent networks, building minimum viable skillsets, conducting R&D and supporting reputable initiatives in the industry just like you.
 
 Events
 =======

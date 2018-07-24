@@ -1,3 +1,4 @@
+
 # CONSTITUTION OF 
 # ADELAIDE BLOCKCHAIN ASSOCIATION INC.
 
@@ -81,121 +82,89 @@ By – Laws	19
 
 
 PART ONE – GENERAL
-------
-
+======
 ### Name
 
->   1. The name of the Association is Adelaide Blockchain Association Inc. (“The
->   Association”).
+   1. The name of the Association is Adelaide Blockchain Association Inc. (“The Association”).
 
 ### Objectives and purpose
 
->   2. The objectives of this By-Law are:
+ 2. The objectives of this By-Law are:
+ 
+	 1.1. To represent and promote the interests of all members within the
+   Adelaide Blockchain Association Inc.; 
+ 
+    1.2. To promote and facilitate interaction between the Association, its    members, and the wider persons who’s aims and interests align with that of   the Association;
 
->   1.1. To represent and promote the interests of all members within the
->   Adelaide Blockchain Association Inc.;
+	 1.3. To promote and facilitate open forums to engage members and the broader community referred to in *clause 2.1.2*;
 
->   1.2. To promote and facilitate interaction between the Association, its
->   members, and the wider persons who’s aims and interests align with that of
->   the Association;
+	   1.4. To promote and facilitate academic, social and vocational opportunities for members.
 
->   1.3. To promote and facilitate open forums to engage members and the broader
->   community referred to in *clause 2.1.2*;
+3. Subject to and without limiting the objectives provided for in *clause 2*
+   above, the association will pursue its objects through activities including
+   but not limited to:
 
->   1.4. To promote and facilitate academic, social and vocational opportunities
->   for members.
+	3.1. Promoting and advocating for the interests of the Association’s members to any relevant organisation;
 
->   3. Subject to and without limiting the objectives provided for in *clause 2*
->   above, the association will pursue its objects through activities including
->   but not limited to:
+	3.2. Organising and facilitating social events for members and students;
 
->   3.1. Promoting and advocating for the interests of the Association’s members
->   to any relevant organisation;
+	3.3. Organising and facilitating educational events for members and students;
 
->   3.2. Organising and facilitating social events for members and students;
+	3.4 Providing a foundation and support network to empower members to work on practical projects in order to further their skills and develop ties with like minded individuals;
 
->   3.3. Organising and facilitating educational events for members and
->   students;
+   3.5. Publishing and making generally available information in relation to careers, education and other matters of general interest to members;
 
->   3.4 Providing a foundation and support network to empower members to work on
->   practical projects in order to further their skills and develop ties with
->   like minded individuals;
+	3.6. Entering into any business arrangements, attracting sponsorship and 		otherwise raising money considered to be necessary for the achievement and conduct of the Association’ objects and activities.
 
->   3.4. Publishing and making generally available information in relation to
->   careers, education and other matters of general interest to members;
-
->   3.5. Entering into any business arrangements, attracting sponsorship and
->   otherwise raising money considered to be necessary for the achievement and
->   conduct of the Association’ objects and activities.
-
->   4. The Association is a not-for-profit organisation.
+4. The Association is a not-for-profit organisation.
 
 ### Interpretation
 
->   5. In this Constitution, unless the contrary intention appears, the
->   following rules of interpretation apply.
+ 5. In this Constitution, unless the contrary intention appears, the following rules of interpretation apply.
 
->   5.1. The following terms shall have the meanings as set out below:
+	 5.1. The following terms shall have the meanings as set out below:
 
->   **“Academic Year”** means the period from the first day of the first week of
->   the First Academic Semester and the last day of the examination period of
->   the Second Academic Semester.
+	  **“Academic Year”** means the period from the first day of the first week of the First Academic Semester and the last day of the examination period of the Second Academic Semester.
 
->   **“Act”** means the Associations Incorporation Act 1985 (SA) and any
->   relevant regulations.
+	**“Act”** means the Associations Incorporation Act 1985 (SA) and any relevant regulations.
 
->   **“Assets”** means the assets held by the Association that are not funds.
+	**“Assets”** means the assets held by the Association that are not funds.
 
->   **“By – Law ”** means a by – law adopted by the Association.
+	**“By – Law ”** means a by – law adopted by the Association.
 
->   **“Constitution”** means this constitution.
+	**“Constitution”** means this constitution.
 
->   **“Equity fund”** means the Funds held by the Association in the Equity
->   Fund.
+	 **“Equity fund”** means the Funds held by the Association in the Equity Fund.
 
->   **“Executive Committee”** means the collective of officers of the Executive
->   Committee within the meaning as defined in Part Two.
+	**“Executive Committee”** means the collective of officers of the Executive Committee within the meaning as defined in Part Two.
 
->   **“Financial Year”** means the period beginning on 1 July of each calendar
->   year and ending on 30 June of the following calendar year.
+	**“Financial Year”** means the period beginning on 1 July of each calendar year and ending on 30 June of the following calendar year.
 
->   **“Members”** as defined by Part Two.
+	**“Members”** as defined by Part Two.
 
->   **“Ordinary Resolution”** means a resolution passed by a meeting of the
->   Association by 50% plus one vote of the persons eligible to vote and in
->   attendance at the relevant meeting.
+	**“Ordinary Resolution”** means a resolution passed by a meeting of the Association by 50% plus one vote of the persons eligible to vote and in attendance at the relevant meeting.
 
->   **“Special Resolution”** means a resolution passed by a meeting of the
->   Association by 75% plus one vote of the persons eligible to vote and in
->   attendance at the relevant meeting.
+	**“Special Resolution”** means a resolution passed by a meeting of the Association by 75% plus one vote of the persons eligible to vote and in attendance at the relevant meeting.
 
->   **“Student”** means a person enrolled at the relevant time in a degree at a
->   recognised university.
+	**“Student”** means a person enrolled at the relevant time in a degree at a recognised university.
 
->   5.2. Headings are for convenience only and do not affect the interpretation
->   of any clauses of this constitution.
+	5.2. Headings are for convenience only and do not affect the interpretation of any clauses of this constitution.
 
->   5.3. Any reference to the singular includes the plural.
+	5.3. Any reference to the singular includes the plural.
 
->   5.4. Any reference to a gender includes all genders.
+	 5.4. Any reference to a gender includes all genders.
 
->   5.5. Any reference to days will be calendar days.
+	 5.5. Any reference to days will be calendar days.
 
->   5.6. Any reference to any amount in dollars will be Australian dollars.
+	5.6. Any reference to any amount in dollars will be Australian dollars.
 
->   5.7. Any reference to any legislation or to any provision of any legislation
->   includes any modification or re-enactment of the legislation, any
->   legislative provision substituted for it and all regulations and statutory
->   instruments issued under the legislation.
+	5.7. Any reference to any legislation or to any provision of any legislation includes any modification or re-enactment of the legislation, any legislative provision substituted for it and all regulations and statutory instruments issued under the legislation.
 
->   5.8. Where a word or phrase is defined its other grammatical forms have a
->   corresponding meaning.
+	5.8. Where a word or phrase is defined its other grammatical forms have a corresponding meaning.
 
->   5.9. Where the day on or by which any thing is to be done is not a business
->   day, that thing must be done on or by the next Business Day.
+	5.9. Where the day on or by which any thing is to be done is not a business day, that thing must be done on or by the next Business Day.
 
->   5.10. The General Committee has the authorisation to, by Special Resolution,
->   interpret the meaning of this Constitution.
+	5.10. The General Committee has the authorisation to, by Special Resolution, interpret the meaning of this Constitution.
 
 ### Relationship to By – Laws
 
@@ -204,46 +173,38 @@ PART ONE – GENERAL
 >   inconsistency.
 
 PART TWO – MEMBERSHIP
-------
+======
 
 ## Division one – Membership
 
 ### Membership
 
->   7. Membership of the Association will consist of every individual who has
->   joined the Adelaide Blockchain discord group.
+7. Membership of the Association will consist of every individual who has joined the Adelaide Blockchain discord group.
 
->   7.1. The members list within the discord group will serve as a ‘register of
->   members’.
+	 7.1. The members list within the discord group will serve as a ‘register of  members’.
 
->   7.2. The register of members will be available to all members of the
->   executive team in an electronic form on a platform which the members sees
->   fit.
+	  7.2. The register of members will be available to all members of the executive team in an electronic form on a platform which the members sees fit.
 
->   7.2.1. The register of members will remain confidential to members other
->   than the executive team unless explicit consent is provided by each member.
+	7.2.1. The register of members will remain confidential to members other than the executive team unless explicit consent is provided by each member.
 
 ### Executive Membership 
 
->   8. Executive members of the Association consist of the individuals who hold
->   roles in the executive committee.
+8. Executive members of the Association consist of the individuals who hold roles in the executive committee.
 
->   8.1 The roles of executive committee members are detailed in Part Three.
+	8.1 The roles of executive committee members are detailed in Part Three.
 
 ### Membership rights
 
->   9. Members will be bound by this constitution and by the By-Laws.
+9. Members will be bound by this constitution and by the By-Laws.
 
->   10. Members who are not executive members will only be eligible to vote at
->   the AGM.
+10. Members who are not executive members will only be eligible to vote at
+the AGM.
 
->   10.1. If a meeting is requested by non-executive members in accordance with
->   Part five, namely a special general meeting, all members will be eligible to
->   vote.
+	10.1. If a meeting is requested by non-executive members in accordance with Part five, namely a special general meeting, all members will be eligible to vote.
 
->   11. Executive members will be eligible to vote at any meeting.
+11. Executive members will be eligible to vote at any meeting.
 
->   12. There will be no membership fee for either class of members.
+12. There will be no membership fee for either class of members.
 
 Division Two – Cessation of Membership
 --------------------------------------
@@ -252,140 +213,112 @@ Division Two – Cessation of Membership
 
 13. A person ceases to be a Member where the person:
 
->   13.1 Dies;
+	13.1 Dies;
 
->   13.2 Is disqualified from holding membership where the member has acted in a
->   manner that is in contravention of the Constitution or By-Laws; .
+	13.2 Is disqualified from holding membership where the member has acted in a  manner that is in contravention of the Constitution or By-Laws; .
 
->   13.2.1 Disqualification will be given effect if a special resolution is
->   passed by the executive members.
+	13.2.1 Disqualification will be given effect if a special resolution is passed by the executive members.
 
-13.3 Unsubscribes from the mailing list; or
+	13.3 Unsubscribes from the mailing list; or
 
-13.4 Otherwise provides notice in writing seeking to cease their membership.
+	13.4 Otherwise provides notice in writing seeking to cease their membership.
 
 PART THREE – THE COMMITTEE
-------
+======
 
 ## Division One – Composition of the Committee
 
 ### Composition of the Executive Committee
 
->   14. The Executive Committee will consist of the following Officers in
->   addition to their positions as Officers of the General Committee.
+14. The Executive Committee will consist of the following Officers in addition to their positions as Officers of the General Committee.
 
->   14.1. External Liaison
+	14.1. External Liaison
 
->   14.1.1 The External Liaison will be considered the signatory on all the
->   legal documents of the association.
+	14.1.1 The External Liaison will be considered the signatory on all the  legal documents of the association.
 
->   14.2. The Secretary
+	14.2. The Secretary
 
->   14.3 The Treasurer
+	14.3 The Treasurer
 
->   14.4. Executive Advisor
+	14.4. Executive Advisor
 
->   14.4.1 There will be no more than five executive advisors at any one time.
+	14.4.1 There will be no more than five executive advisors at any one time.
 
->   14.5. Director of Education
+	14.5. Director of Education
 
->   14.5.1 There will be no more than two Directors of Education at any one
->   time.
+	14.5.1 There will be no more than two Directors of Education at any one time.
 
->   14.6. Events Coordinator
+	14.6. Events Coordinator
 
->   14.6.1 There will be no more than two Event Coordinators at any one time.
+	14.6.1 There will be no more than two Event Coordinators at any one time.
 
->   14.7. Project Leads, one for each current project.
+	14.7. Project Leads, one for each current project.
 
->   14.8.1 There will be a maximum of two project leads on the Executive
->   Committee for each Project submitted to and approved by the Association.
+	14.8.1 There will be a maximum of two project leads on the Executive Committee for each Project submitted to and approved by the Association.
 
 ### Term of Office
 
->   15. The term of the Executive Committee will be from the first day after the
->   election at the AGM to the last day prior to the AGM of the following
->   calendar year.
+15. The term of the Executive Committee will be from the first day after the election at the AGM to the last day prior to the AGM of the following calendar year.
 
 
 ## Division Two – Administration of the Association
 
 ### Powers
 
->   16. Subject to the Act, this Constitution and By-Laws and any resolution
->   passed by the Association, the General Committee:
+16. Subject to the Act, this Constitution and By-Laws and any resolution passed by the Association, the General Committee:
 
->   16.1 Is to manage and control the affairs, Funds and Assets of the
->   Association;
+	16.1 Is to manage and control the affairs, Funds and Assets of the Association;
 
->   16.2 May exercise all such functions and powers as may be exercised by the
->   Association, other than those functions and powers that are required to be
->   exercised by a resolution of the Association; and
+	16.2 May exercise all such functions and powers as may be exercised by the Association, other than those functions and powers that are required to be exercised by a resolution of the Association; and
 
->   16.3 Has power to perform all such acts and do all such things as appear to
->   the General Committee to be necessary or desirable for the proper management
->   of the affairs of the Association.
+	16.3 Has power to perform all such acts and do all such things as appear to the General Committee to be necessary or desirable for the proper management of the affairs of the Association.
 
->   17. Subject to the Act, this Constitution and any resolution passed by the
->   Association, the Executive Committee has the functions and powers provided
->   for in any By-Laws of the Association.
+17. Subject to the Act, this Constitution and any resolution passed by the Association, the Executive Committee has the functions and powers provided for in any By-Laws of the Association.
 
 ### Duties of Officers
 
->   18. The Association may make By-Laws for the duties of Officers.
+18. The Association may make By-Laws for the duties of Officers.
 
-18.1 Officers must act in accordance with any duties provided for in any By-Law
-.
+	18.1 Officers must act in accordance with any duties provided for in any By-Law.
 
-18.2 Duties of Officers will include any matter incidental to their capacity as
-an Officer
+	18.2 Duties of Officers will include any matter incidental to their capacity as an Officer
 
 ### Indemnities
 
->   19. The Association shall indemnify and hold Officers harmless for all
->   actions, costs, expenses, losses and demands incurred where the Officer or
->   Officers have:
+19. The Association shall indemnify and hold Officers harmless for all actions, costs, expenses, losses and demands incurred where the Officer or Officers have:
 
->   19.1 Acted in their capacity as an Officer;
+	19.1 Acted in their capacity as an Officer;
 
->   19.2 Acted within the scope of their duties or with the approval of an
->   ordinary motion of the General Committee;
+	19.2 Acted within the scope of their duties or with the approval of an ordinary motion of the General Committee;
 
->   19.3 Acted with the approval of the General Committee where required under
->   this constitution, any relevant By-Law made under this constitution or any
->   convention of the General Committee;
+	19.3 Acted with the approval of the General Committee where required under this constitution, any relevant By-Law made under this constitution or any convention of the General Committee;
 
->   19.4 Acted in good faith;
+	19.4 Acted in good faith;
 
->   19.5 Not acted (or continued to act) in breach of any law; and
+	19.5 Not acted (or continued to act) in breach of any law; and
 
->   19.6 Not acted (or continued to act) with negligence.
+	19.6 Not acted (or continued to act) with negligence.
 
 
 ## Division Three – Vacancies, Sub-Committees and Co-Opted Officers
 
 ### Meaning of Vacancy
 
->   20. An Office of the Executive Committee will be vacant where no person
->   holds the position of the Office, and an Office will become vacant where:
+20. An Office of the Executive Committee will be vacant where no person holds the position of the Office, and an Office will become vacant where:
 
->   20.1 The person holding the position of the Office ceases to hold the Office
->   for any reason;
+	20.1 The person holding the position of the Office ceases to hold the Office for any reason;
 
->   20.2 The position of the Office is not filled following a duly constituted
->   election; or
+	20.2 The position of the Office is not filled following a duly constituted election; or
 
->   20.3 Becomes vacant for any other reason.
+	20.3 Becomes vacant for any other reason.
 
->   21. In the event that an office of the Executive Committee is vacant the
->   general committee may by special resolution:
+21. In the event that an office of the Executive Committee is vacant the general committee may by special resolution:
 
->   21.1 Appoint any person eligible for election to an office to the vacant
->   office; or
+	21.1 Appoint any person eligible for election to an office to the vacant office; or
 
->   21.2 Hold a by-election to fill the vacant office; or
+	21.2 Hold a by-election to fill the vacant office; or
 
->   21.3 Take no action.
+	21.3 Take no action.
 
 
 ## Division Four – Resignation and Disqualification
@@ -394,54 +327,37 @@ an Officer
 
 22. An Officer ceases to hold their Office where the Officer:
 
->   22.1. Dies;
+	22.1. Dies;
 
->   22.2 Resigns in writing to the rest of the Executive Committee; or
+	22.2 Resigns in writing to the rest of the Executive Committee; or
 
->   22.3 Is dismissed from Office.
+	22.3 Is dismissed from Office.
 
 ### Grounds of Dismissal from Office
 
->   23. Any Officer of the Executive Committee may be dismissed from Office by
->   Special Resolution of the Executive Committee where:
+23. Any Officer of the Executive Committee may be dismissed from Office by Special Resolution of the Executive Committee where:
 
->   23.1 The Officer has been absent from no less than 3 consecutive meetings of
->   the Executive Committee without apologies accepted by the Executive
->   Committee; or
+	23.1 The Officer has been absent from no less than 3 consecutive meetings of the Executive Committee without apologies accepted by the Executive Committee; or
 
->   23.2 The Officer has been absent from no less than 6 meetings of the General
->   Committee within 1 term without apologies accepted by the General Committee;
->   or
+	23.2 The Officer has been absent from no less than 6 meetings of the General Committee within 1 term without apologies accepted by the General Committee; or
 
->   23.3 The Officer has consistently failed to adequately discharged the duties
->   of their Office; or
+	23.3 The Officer has consistently failed to adequately discharged the duties of their Office; or
 
->   23.4 The Officer has acted in a manner that is in contravention of this
->   Constitution, By-Laws, the Act or any other law relevant to the Association
->   or the business of the Association; or
+	23.4 The Officer has acted in a manner that is in contravention of this Constitution, By-Laws, the Act or any other law relevant to the Association or the business of the Association; or
 
->   23.5 The Officer has wilfully acted in a manner prejudicial to the interests
->   of the Association.
+	23.5 The Officer has willfully acted in a manner prejudicial to the interests	of the Association.
 
 ### Motion to Dismiss
 
 24. Where an Officer proposes to move a motion to dismiss another Officer:
 
->   24.1 The motion must be moved at a meeting of the Executive Committee;
+	24.1 The motion must be moved at a meeting of the Executive Committee;
 
->   24.2 The Officer proposing the motion must give notice of the proposed
->   motion and the grounds for it to at least 50% of the Executive Committee no
->   less than 10 days prior to the meeting of the General Committee at which the
->   motion is proposed to be moved.
+	24.2 The Officer proposing the motion must give notice of the proposed motion and the grounds for it to at least 50% of the Executive Committee no less than 10 days prior to the meeting of the General Committee at which the motion is proposed to be moved.
 
->   24.3 The Officer proposed to be dismissed must be given a reasonable
->   opportunity to respond to the allegations relating to the proposed motion at
->   the relevant meeting of the General Committee.
+	24.3 The Officer proposed to be dismissed must be given a reasonable opportunity to respond to the allegations relating to the proposed motion at the relevant meeting of the General Committee.
 
->   24.4 For the avoidance of doubt, where the Officer proposed to be dismissed
->   fails to attend the meeting of the relevant General Committee they may be
->   determined to have been given a reasonable opportunity to respond to the
->   allegations relating to the proposed motion.
+	24.4 For the avoidance of doubt, where the Officer proposed to be dismissed fails to attend the meeting of the relevant General Committee they may be determined to have been given a reasonable opportunity to respond to the allegations relating to the proposed motion.
 
 PART FOUR – FINANCE AND ADMINISTRATION
 ------
@@ -450,195 +366,143 @@ PART FOUR – FINANCE AND ADMINISTRATION
 
 ### Powers of the Association
 
->   25. The powers of the Association:
+25. The powers of the Association:
 
->   25.1. Will be as provided in the Act;
+	25.1. Will be as provided in the Act;
 
->   25.2. May only be exercised in furtherance of the Objectives of the
->   Association as provided for in clause 2 above;
+	25.2. May only be exercised in furtherance of the Objectives of the Association as provided for in clause 2 above;
 
->   25.3. May only be exercised in accordance with the Association’s status as a
->   not-for-profit organisation as provided for in clause 4 above; and
+	25.3. May only be exercised in accordance with the Association’s status as a not-for-profit organisation as provided for in clause 4 above; and
 
->   25.4. Will be exercised by the Executive Committee in accordance with any
->   relevant By-Law.
+	25.4. Will be exercised by the Executive Committee in accordance with any relevant By-Law.
 
 ### Accounts
 
->   26. The Association will hold accounts with any financial institution as
->   deemed necessary and appropriate by Special Resolution of the General
->   Committee, including at least:
+26. The Association will hold accounts with any financial institution as deemed necessary and appropriate by Special Resolution of the General Committee, including at least:
 
->   26.1. A general funds account;
+	26.1. A general funds account;
 
->   26.2. An equity fund account; and
+	26.2. An equity fund account; and
 
->   26.3 An exchange account.
+	26.3 An exchange account.
 
->   26.3.1 When donations and sponsorship funds are received in a foreign
->   currency they are to be withdrawn and transferred back to AUD within 24
->   hours of receipt.
+	26.3.1 When donations and sponsorship funds are received in a foreign currency they are to be withdrawn and transferred back to AUD within 24 hours of receipt.
 
 ### Appropriation of Funds
 
->   27. The funds of the Association may only be appropriated and applied in
->   furtherance of the Objectives of the Association as provided for in clause 2
->   above and the Association’s status as a not-for-profit organisation as
->   provided for in clause 4 above;
+27. The funds of the Association may only be appropriated and applied in furtherance of the Objectives of the Association as provided for in clause 2 above and the Association’s status as a not-for-profit organisation as provided for in clause 4 above;
 
->   28. The funds of the Association may only be appropriated:
+28. The funds of the Association may only be appropriated:
 
->   28.1. By Ordinary Resolution of the Executive Committee; or
+	28.1. By Ordinary Resolution of the Executive Committee; or
 
->   28.2. In accordance with a By-Law adopted by the Association for the purpose
->   of providing for the appropriation of funds of the Association.
+	28.2. In accordance with a By-Law adopted by the Association for the purpose of providing for the appropriation of funds of the Association.
 
 ### Application of Assets
 
->   29. The Assets of the Association may only be appropriated and applied in
->   furtherance of the Objectives of the Association as provided for in clause 2
->   above and the Association’s status as a not-for-profit organisation as
->   provided for in clause 4 above.
+29. The Assets of the Association may only be appropriated and applied in
+furtherance of the Objectives of the Association as provided for in clause 2 above and the Association’s status as a not-for-profit organisation as provided for in clause 4 above.
 
 ### Prohibition Against Distribution of Assets to Members 
 
->   30. The Funds and Assets of the Association may not be paid, applied or
->   distributed directly or indirectly to Members or their associates except as
->   bona fide remuneration of a Member for services rendered or expenses
->   incurred on behalf of the Association in accordance with this Constitution.
+30. The Funds and Assets of the Association may not be paid, applied or distributed directly or indirectly to Members or their associates except as bona fide remuneration of a Member for services rendered or expenses incurred on behalf of the Association in accordance with this Constitution.
 
 ### Books and Records (Finance)
 
->   31. The Treasurer must:
+31. The Treasurer must:
 
->   31.1. Maintain such books and records as correctly record and explain the
->   transactions and financial position of the Association;
+	31.1. Maintain such books and records as correctly record and explain the transactions and financial position of the Association;
 
->   31.2. Maintain any further books and records as required by the Act;
+	31.2. Maintain any further books and records as required by the Act;
 
->   31.3. Prepare or cause to be prepared an account of receipts and payments
->   recording the total receipts and payments of the Association for each
->   calendar month;
+	31.3. Prepare or cause to be prepared an account of receipts and payments recording the total receipts and payments of the Association for each calendar month;
 
->   31.4. Prepare or cause to be prepared a statement of assets and liabilities
->   for each calendar month.
+	31.4. Prepare or cause to be prepared a statement of assets and liabilities for each calendar month.
 
->   31.5. Make available such records at all meetings of the Executive and
->   General Committee;
+	31.5. Make available such records at all meetings of the Executive and General Committee;
 
->   31.6. Prepare or cause to be prepared an account of receipts and payments
->   recording the total receipts and payments of the Association for each
->   Financial Year;
+	31.6. Prepare or cause to be prepared an account of receipts and payments recording the total receipts and payments of the Association for each Financial Year;
 
->   31.7. Prepare or cause to be prepared a statement of assets and liabilities
->   for each Financial Year.
+	31.7. Prepare or cause to be prepared a statement of assets and liabilities for each Financial Year.
 
->   31.8 Records must be constantly maintained in an electronic format that is
->   readily available to all members of the executive committee.
+	31.8 Records must be constantly maintained in an electronic format that is readily available to all members of the executive committee.
 
->   32. The Treasurer must make the reports specified in Part Five available at
->   each AGM.
+32. The Treasurer must make the reports specified in Part Five available at each AGM.
 
 ### Books and Records (General)
 
->   33. The Secretary must:
+33. The Secretary must:
 
->   33.1. Maintain this Constitution and By-Laws;
+	33.1. Maintain this Constitution and By-Laws;
 
->   33.2. Maintain a book of minutes of all meetings in an electronic format
->   that is readily available to all members of the executive committee.
+	33.2. Maintain a book of minutes of all meetings in an electronic format that is readily available to all members of the executive committee.
 
 ### Execution of Documents
 
->   34. Subject to any requirement of the Act or any other law, any two members
->   of the Executive may execute documents on behalf of the Association on
->   Ordinary Resolution of the General Committee.
+34. Subject to any requirement of the Act or any other law, any two members of the Executive may execute documents on behalf of the Association on Ordinary Resolution of the General Committee.
 
 ## Division Two – Dissolution and Winding Up
 
->   35. Subject to any requirement of the Act or any other law, the Association
->   may be entered into voluntary administration by Special Resolution of a
->   Special General Meeting.
+35. Subject to any requirement of the Act or any other law, the Association may be entered into voluntary administration by Special Resolution of a Special General Meeting.
 
->   36. Subject to any requirement of the Act or any other law, the Association
->   may be wound up by Special Resolution of a Special General Meeting
+36. Subject to any requirement of the Act or any other law, the Association may be wound up by Special Resolution of a Special General Meeting
 
 ### Distribution of Funds and Assets
 
 37. In the event that the Association is wound up:
 
->   37.1 Funds and Assets of the Association are not to be distributed to
->   Members or members of the General Committee.
+	37.1 Funds and Assets of the Association are not to be distributed to
+Members or members of the General Committee.
 
->   37.2 All Funds and Assets at to be appropriated and applied in satisfaction
->   of all debts and liabilities of the Association.
+	37.2 All Funds and Assets at to be appropriated and applied in satisfaction of all debts and liabilities of the Association.
 
->   37.3 All Funds and Assets remaining after the satisfaction of all debts and
->   liabilities of the Association are to be distributed amongst existing
->   sponsors.
+	37.3 All Funds and Assets remaining after the satisfaction of all debts and
+	liabilities of the Association are to be distributed amongst existing
+	sponsors.
 
 PART FIVE – MEETINGS
-------
-
+======
 ## Division One – Meetings Generally
 
->   38. The General Committee will meet at times as deemed necessary and
->   appropriate by the Executive Committee.
+38. The General Committee will meet at times as deemed necessary and appropriate by the Executive Committee.
 
->   38.1 The Executive committee must call a meeting of the General Committee
->   upon written request of the 15% of the General Committee.
+	38.1 The Executive committee must call a meeting of the General Committee upon written request of the 15% of the General Committee.
 
->   38.2 The business of a meeting of the General Committee will be as defined
->   in the notice of meeting
+	38.2 The business of a meeting of the General Committee will be as defined in the notice of meeting
 
->   39. Notice must be provided to all Officers of the General Committee in
->   writing of any meeting of the General Committee no less than five Business
->   Days prior to the relevant meeting.
+	39. Notice must be provided to all Officers of the General Committee in writing of any meeting of the General Committee no less than five Business Days prior to the relevant meeting.
 
 ### Meetings of the Executive Committee
 
->   40. The Executive Committee will meet at times as deemed necessary and
->   appropriate by the Executive Committee.
+40. The Executive Committee will meet at times as deemed necessary and appropriate by the Executive Committee.
 
 ###  Annual General Meeting
 
->   41. The Association will convene the Annual General Meeting during the mid
->   semester break in semester two of the academic year.
+41. The Association will convene the Annual General Meeting during the mid semester break in semester two of the academic year.
 
->   42. The business of the Annual General Meeting will include the following:
+42. The business of the Annual General Meeting will include the following:
 
->   42.1. Receiving a report from each of the Officers of the Executive
->   Committee;
+	42.1. Receiving a report from each of the Officers of the Executive Committee;
 
->   42.2. Receiving statements of the financial affairs of the Association for
->   the previous Financial Year required to be presented; and
+	42.2. Receiving statements of the financial affairs of the Association for the previous Financial Year required to be presented; and
 
->   42.3. Any other business as deemed necessary and appropriate.
+	42.3. Any other business as deemed necessary and appropriate.
 
->   43. The Secretary of President must provide notice of the Annual General
->   Meeting no later than 14 calendar days prior to the Annual General Meeting.
+43. The Secretary of President must provide notice of the Annual General Meeting no later than 14 calendar days prior to the Annual General Meeting.
 
->   43.1. Notice of the Annual General Meeting is to be posted on the social
->   media of the Association, posted through the mailing list, and any public
->   notice board controlled by the Association.
+	43.1. Notice of the Annual General Meeting is to be posted on the social media of the Association, posted through the mailing list, and any public notice board controlled by the Association.
 
 ### Special General Meeting
 
->   44. The Association will convene a Special General Meeting as deemed
->   necessary and appropriate by the Executive Committee.
+44. The Association will convene a Special General Meeting as deemed necessary and appropriate by the Executive Committee.
 
->   44.1. The Secretary must call a meeting of the General and Executive
->   Committee upon written request of 15% Members eligible to vote at a Special
->   General Meeting.
+	44.1. The Secretary must call a meeting of the General and Executive Committee upon written request of 15% Members eligible to vote at a Special General Meeting.
 
->   44.2. The business of the Annual General Meeting will be as defined by the
->   notice of meeting.
+	44.2. The business of the Annual General Meeting will be as defined by the notice of meeting.
 
->   44.3. Notice of the Special General Meeting must be provided no later than
->   14 calendar days prior to the Special General Meeting.
-
->   44.4. Notice of a Special General Meeting is to be posted on the website of
->   the Association and any public notice board controlled by the Association.
+	44.3. Notice of the Special General Meeting must be provided no later than 14 calendar days prior to the Special General Meeting.
+	
+	44.4. Notice of a Special General Meeting is to be posted on the website of the Association and any public notice board controlled by the Association.
 
 ## Division Two – Conduct of Meetings
 
@@ -648,35 +512,29 @@ PART FIVE – MEETINGS
 
 46. Each executive member of the Association will be eligible to chair meetings.
 
-46.1 The chair of each meeting will be determined on rotation.
+	46.1 The chair of each meeting will be determined on rotation.
 
 47. Notice of any meeting required under this constitution must include:
 
->   47.1 The location of the meeting;
+	47.1 The location of the meeting;
 
->   47.2 The beginning time of the meeting;
+	47.2 The beginning time of the meeting;
 
->   47.3 The particulars and order of business to be considered by the meeting.
+	47.3 The particulars and order of business to be considered by the meeting.
 
->   48. Quorum for meetings of the Executive Members and General Members will be
->   equivalent to those required to pass an ordinary resolution.
+48. Quorum for meetings of the Executive Members and General Members will be equivalent to those required to pass an ordinary resolution.
 
 ### Voting – Eligibility to Vote
 
->   49. Persons eligible to vote will be:
+49. Persons eligible to vote will be:
 
->   49.1 In the case of meetings of General Members, such as the Annual General
->   Meeting or Special General Meeting, all General Members will be eligible to
->   vote.
+	49.1 In the case of meetings of General Members, such as the Annual General Meeting or Special General Meeting, all General Members will be eligible to vote.
 
->   49.2 In the case of meetings of the Executive Committee, all Executive
->   Members will be eligible to vote.
+	49.2 In the case of meetings of the Executive Committee, all Executive Members will be eligible to vote.
 
 ### Voting – Ordinary Resolutions
 
->   50. Except where provided otherwise in this constitution or any by-law under
->   this constitution, all voting will be required to be passed by an ordinary
->   resolution.
+50. Except where provided otherwise in this constitution or any by-law under this constitution, all voting will be required to be passed by an ordinary resolution.
 
 >   51. An ordinary solution will be held to have passed where fifty per cent of
 >   members plus one vote have voted in favor.

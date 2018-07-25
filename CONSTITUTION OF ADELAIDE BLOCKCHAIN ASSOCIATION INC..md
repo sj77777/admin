@@ -1,93 +1,131 @@
 
+
 # CONSTITUTION OF 
 # ADELAIDE BLOCKCHAIN ASSOCIATION INC.
 
-- Examples of how to make a table of content
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
-
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
-
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
-
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
-
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
 
 
-1. #### [PART ONE – GENERAL](##Name)
-... 1.1 [Name	3](##Name)
+-  #### [PART ONE – GENERAL](#P1)
+	- [Name	3](#Name)
 
-Objectives and purpose	3
-Interpretation	4
-Relationship to By – Laws	5
-PART TWO – MEMBERSHIP	6
-Division one – Membership	6
-Membership	6
-Executive Membership	6
-Membership rights	6
-Division Two – Cessation of Membership	7
-Cessation of Membership	7
-PART THREE – THE COMMITTEE	7
-Division One – Composition of the Committee	7
-Composition of the Executive Committee	7
-Term of Office	8
-Division Two – Administration of the Association	8
-Powers	8
-Duties of Officers	9
-Indemnities	9
-Division Three – Vacancies, Sub-Committees and Co-Opted Officers	9
-Meaning of Vacancy	9
-Division Four – Resignation and Disqualification	10
-Cessation of Office	10
-Grounds of Dismissal from Office	10
-Motion to Dismiss	11
-PART FOUR – FINANCE AND ADMINISTRATION	11
-Division One – General	11
-Powers of the Association	11
-Accounts	12
-Appropriation of Funds	12
-Application of Assets	12
-Prohibition Against Distribution of Assets to Members	12
-Books and Records (Finance)	13
-Books and Records (General)	13
-Execution of Documents	14
-Division Two – Dissolution and Winding Up	14
-Distribution of Funds and Assets	14
-PART FIVE – MEETINGS	14
-Division One – Meetings Generally	14
-Meetings of the Executive Committee	15
-Annual General Meeting	15
-Special General Meeting	15
-Division Two – Conduct of Meetings	16
-Conduct of Meetings	16
-Voting – Eligibility to Vote	16
-Voting – Ordinary Resolutions	17
-Voting – Special Resolutions	17
-Minutes of Meetings	17
-PART SIX – ELECTIONS	18
-Conduct of Elections	18
-Timing of Elections	18
-Notice of Elections – Voting	18
-PART SEVEN – AMENDMENTS AND BY- LAWS	19
-Alterations to the Constitution	19
-By – Laws	19
+	-  [Objectives and purpose](#OAP)
+
+	-  [Interpretation](#In)
+
+	-  [Relationship to By – Laws](#R2BL)
+
+- #### [PART TWO – MEMBERSHIP](#P2)
+
+	-  [Division one – Membership](#D1-M)
+
+	-  [Membership](#Mem)
+
+	- [Executive Membership](#ExMem)
+
+	-   [Membership rights](#MemR)
+
+	- [Division Two – Cessation of Membership](#D2-CoM)
+
+	-  [Cessation of Membership](#CoM)
+
+- #### [PART THREE – THE COMMITTEE](#P3)
+
+	- [Division One – Composition of the Committee](#D1-CoC)
+
+	- [Composition of the Executive Committee](#CoEC)
+
+	- [Term of Office](#ToO)
+
+	- [Division Two – Administration of the Association](#D2-AoA)
+
+	- [Powers](#Pow)
+
+	- [Duties of Officers](#DoO)
+
+	- [Indemnities](#Indem)
+
+	- [Division Three – Vacancies, Sub-Committees and Co-Opted Officers](#D3-VSCaCOO)
+
+	- [Meaning of Vacancy](#MoV)
+
+	- [Division Four – Resignation and Disqualification](#D4-RaD)
+
+	- [Cessation of Office](#CoO)
+
+	- [Grounds of Dismissal from Office](#GoDF)
+
+	- [Motion to Dismiss](#MtD)
+
+- #### [PART FOUR – FINANCE AND ADMINISTRATION](#P4)
+
+	- [Division One – General](#D1-Gen)
+
+	- [Powers of the Association](#PotA)
+
+	- [Accounts](#Acc)
+
+	- [Appropriation of Funds](#AoF)
+
+	- [Application of Assets](#AoAssets)
+
+	- [Prohibition Against Distribution of Assets to Members](#PADoAtM)
+
+	- [Books and Records (Finance)](#BaRFin)
+
+	- [Books and Records (General)](#BaRGen)
+
+	- [Execution of Documents](#EoD)
+
+	- [Division Two – Dissolution and Winding Up](#D2-DaWU)
+
+	- [Distribution of Funds and Assets](#DoFaA)
+
+- #### [PART FIVE – MEETINGS](#P5)
+
+	- [Division One – Meetings Generally](#D1-MG)
+
+	- [Meetings of the Executive Committee](#MoEC)
+
+	- [Annual General Meeting](#AGM)
+
+	- [Special General Meeting](#SGM)
+
+	- [Division Two – Conduct of Meetings](#D2-CoMeetings)
+
+	- [Conduct of Meetings](#CoMeetings)
+
+	- [Voting – Eligibility to Vote](#V-EtV)
+
+	- [Voting – Ordinary Resolutions](#V-OR)
+
+	- [Voting – Special Resolutions](#V-SR)
+
+	- [Minutes of Meetings](#MoM)
+
+- #### [PART SIX – ELECTIONS](#P6)
+
+	- [Conduct of Elections](#CofE)
+
+	- [Timing of Elections](#ToE)
+
+	- [Notice of Elections – Voting](#NoE-V)
+
+- #### [PART SEVEN – AMENDMENTS AND BY- LAWS](#P7)
+
+	- [Alterations to the Constitution](#AttC)
+	
+	- [By – Laws](#B-L)
 
 
 
-PART ONE – GENERAL
+
+PART ONE – GENERAL <a name="P1"></a>
 ======
-### Name
+### Name <a name="Name"></a>
 
    1. The name of the Association is Adelaide Blockchain Association Inc. (“The Association”).
 
-### Objectives and purpose
+### Objectives and purpose  <a name="OAP"></a>
 
  2. The objectives of this By-Law are:
  
@@ -118,7 +156,7 @@ PART ONE – GENERAL
 
 4. The Association is a not-for-profit organisation.
 
-### Interpretation
+### Interpretation  <a name="In"></a>
 
  5. In this Constitution, unless the contrary intention appears, the following rules of interpretation apply.
 
@@ -166,18 +204,18 @@ PART ONE – GENERAL
 
 	5.10. The General Committee has the authorisation to, by Special Resolution, interpret the meaning of this Constitution.
 
-### Relationship to By – Laws
+### Relationship to By – Laws  <a name="R2BL"></a>
 
 >   6. In the event of an inconsistency between this constitution and any By –
 >   Law of the Association, this Constitution prevails to the extent of the
 >   inconsistency.
 
-PART TWO – MEMBERSHIP
+PART TWO – MEMBERSHIP  <a name="P2"></a>
 ======
 
-## Division one – Membership
+## Division one – Membership  <a name="D1-M"></a>
 
-### Membership
+### Membership  <a name="Mem"></a>
 
 7. Membership of the Association will consist of every individual who has joined the Adelaide Blockchain discord group.
 
@@ -187,13 +225,13 @@ PART TWO – MEMBERSHIP
 
 	7.2.1. The register of members will remain confidential to members other than the executive team unless explicit consent is provided by each member.
 
-### Executive Membership 
+### Executive Membership   <a name="ExMem"></a>
 
 8. Executive members of the Association consist of the individuals who hold roles in the executive committee.
 
 	8.1 The roles of executive committee members are detailed in Part Three.
 
-### Membership rights
+### Membership rights  <a name="MemR"></a>
 
 9. Members will be bound by this constitution and by the By-Laws.
 
@@ -206,10 +244,10 @@ the AGM.
 
 12. There will be no membership fee for either class of members.
 
-Division Two – Cessation of Membership
+Division Two – Cessation of Membership  <a name="D2-CoM"></a>
 --------------------------------------
 
-### Cessation of Membership
+### Cessation of Membership  <a name="CoM"></a>
 
 13. A person ceases to be a Member where the person:
 
@@ -223,12 +261,12 @@ Division Two – Cessation of Membership
 
 	13.4 Otherwise provides notice in writing seeking to cease their membership.
 
-PART THREE – THE COMMITTEE
+PART THREE – THE COMMITTEE  <a name="P3"></a>
 ======
 
-## Division One – Composition of the Committee
+## Division One – Composition of the Committee  <a name="D1-CoC"></a>
 
-### Composition of the Executive Committee
+### Composition of the Executive Committee  <a name="CoEC"></a>
 
 14. The Executive Committee will consist of the following Officers in addition to their positions as Officers of the General Committee.
 
@@ -256,14 +294,14 @@ PART THREE – THE COMMITTEE
 
 	14.8.1 There will be a maximum of two project leads on the Executive Committee for each Project submitted to and approved by the Association.
 
-### Term of Office
+### Term of Office  <a name="ToO"></a>
 
 15. The term of the Executive Committee will be from the first day after the election at the AGM to the last day prior to the AGM of the following calendar year.
 
 
-## Division Two – Administration of the Association
+## Division Two – Administration of the Association  <a name="D2-AoA"></a>
 
-### Powers
+### Powers  <a name="Pow"></a>
 
 16. Subject to the Act, this Constitution and By-Laws and any resolution passed by the Association, the General Committee:
 
@@ -275,7 +313,7 @@ PART THREE – THE COMMITTEE
 
 17. Subject to the Act, this Constitution and any resolution passed by the Association, the Executive Committee has the functions and powers provided for in any By-Laws of the Association.
 
-### Duties of Officers
+### Duties of Officers  <a name="DoO"></a>
 
 18. The Association may make By-Laws for the duties of Officers.
 
@@ -283,7 +321,7 @@ PART THREE – THE COMMITTEE
 
 	18.2 Duties of Officers will include any matter incidental to their capacity as an Officer
 
-### Indemnities
+### Indemnities  <a name="Indem"></a>
 
 19. The Association shall indemnify and hold Officers harmless for all actions, costs, expenses, losses and demands incurred where the Officer or Officers have:
 
@@ -300,9 +338,9 @@ PART THREE – THE COMMITTEE
 	19.6 Not acted (or continued to act) with negligence.
 
 
-## Division Three – Vacancies, Sub-Committees and Co-Opted Officers
+## Division Three – Vacancies, Sub-Committees and Co-Opted Officers  <a name="D3-VSCaCOO"></a>
 
-### Meaning of Vacancy
+### Meaning of Vacancy  <a name="MoV"></a>
 
 20. An Office of the Executive Committee will be vacant where no person holds the position of the Office, and an Office will become vacant where:
 
@@ -321,9 +359,9 @@ PART THREE – THE COMMITTEE
 	21.3 Take no action.
 
 
-## Division Four – Resignation and Disqualification
+## Division Four – Resignation and Disqualification  <a name="D4-RaD"></a>
 
-### Cessation of Office
+### Cessation of Office  <a name="CoO"></a>
 
 22. An Officer ceases to hold their Office where the Officer:
 
@@ -333,7 +371,7 @@ PART THREE – THE COMMITTEE
 
 	22.3 Is dismissed from Office.
 
-### Grounds of Dismissal from Office
+### Grounds of Dismissal from Office  <a name="GoDF"></a>
 
 23. Any Officer of the Executive Committee may be dismissed from Office by Special Resolution of the Executive Committee where:
 
@@ -347,7 +385,7 @@ PART THREE – THE COMMITTEE
 
 	23.5 The Officer has willfully acted in a manner prejudicial to the interests	of the Association.
 
-### Motion to Dismiss
+### Motion to Dismiss  <a name="MtD"></a>
 
 24. Where an Officer proposes to move a motion to dismiss another Officer:
 
@@ -359,12 +397,12 @@ PART THREE – THE COMMITTEE
 
 	24.4 For the avoidance of doubt, where the Officer proposed to be dismissed fails to attend the meeting of the relevant General Committee they may be determined to have been given a reasonable opportunity to respond to the allegations relating to the proposed motion.
 
-PART FOUR – FINANCE AND ADMINISTRATION
+PART FOUR – FINANCE AND ADMINISTRATION  <a name="P4"></a>
 ------
 
-## Division One – General
+## Division One – General  <a name="D1-Gen"></a>
 
-### Powers of the Association
+### Powers of the Association  <a name="PotA"></a>
 
 25. The powers of the Association:
 
@@ -376,7 +414,7 @@ PART FOUR – FINANCE AND ADMINISTRATION
 
 	25.4. Will be exercised by the Executive Committee in accordance with any relevant By-Law.
 
-### Accounts
+### Accounts  <a name="Acc"></a>
 
 26. The Association will hold accounts with any financial institution as deemed necessary and appropriate by Special Resolution of the General Committee, including at least:
 
@@ -388,7 +426,7 @@ PART FOUR – FINANCE AND ADMINISTRATION
 
 	26.3.1 When donations and sponsorship funds are received in a foreign currency they are to be withdrawn and transferred back to AUD within 24 hours of receipt.
 
-### Appropriation of Funds
+### Appropriation of Funds  <a name="AoF"></a>
 
 27. The funds of the Association may only be appropriated and applied in furtherance of the Objectives of the Association as provided for in clause 2 above and the Association’s status as a not-for-profit organisation as provided for in clause 4 above;
 
@@ -398,16 +436,16 @@ PART FOUR – FINANCE AND ADMINISTRATION
 
 	28.2. In accordance with a By-Law adopted by the Association for the purpose of providing for the appropriation of funds of the Association.
 
-### Application of Assets
+### Application of Assets  <a name="AoAssest"></a>
 
 29. The Assets of the Association may only be appropriated and applied in
 furtherance of the Objectives of the Association as provided for in clause 2 above and the Association’s status as a not-for-profit organisation as provided for in clause 4 above.
 
-### Prohibition Against Distribution of Assets to Members 
+### Prohibition Against Distribution of Assets to Members  <a name="PADoAtM"></a>
 
 30. The Funds and Assets of the Association may not be paid, applied or distributed directly or indirectly to Members or their associates except as bona fide remuneration of a Member for services rendered or expenses incurred on behalf of the Association in accordance with this Constitution.
 
-### Books and Records (Finance)
+### Books and Records (Finance)  <a name="BaRFin"></a>
 
 31. The Treasurer must:
 
@@ -429,7 +467,7 @@ furtherance of the Objectives of the Association as provided for in clause 2 abo
 
 32. The Treasurer must make the reports specified in Part Five available at each AGM.
 
-### Books and Records (General)
+### Books and Records (General)  <a name="BaRFin"></a>
 
 33. The Secretary must:
 
@@ -437,17 +475,17 @@ furtherance of the Objectives of the Association as provided for in clause 2 abo
 
 	33.2. Maintain a book of minutes of all meetings in an electronic format that is readily available to all members of the executive committee.
 
-### Execution of Documents
+### Execution of Documents  <a name="EoD"></a>
 
 34. Subject to any requirement of the Act or any other law, any two members of the Executive may execute documents on behalf of the Association on Ordinary Resolution of the General Committee.
 
-## Division Two – Dissolution and Winding Up
+## Division Two – Dissolution and Winding Up  <a name="D2-DaWU"></a>
 
 35. Subject to any requirement of the Act or any other law, the Association may be entered into voluntary administration by Special Resolution of a Special General Meeting.
 
 36. Subject to any requirement of the Act or any other law, the Association may be wound up by Special Resolution of a Special General Meeting
 
-### Distribution of Funds and Assets
+### Distribution of Funds and Assets  <a name="DoFaA"></a>
 
 37. In the event that the Association is wound up:
 
@@ -460,9 +498,9 @@ Members or members of the General Committee.
 	liabilities of the Association are to be distributed amongst existing
 	sponsors.
 
-PART FIVE – MEETINGS
+PART FIVE – MEETINGS  <a name="P5"></a>
 ======
-## Division One – Meetings Generally
+## Division One – Meetings Generally  <a name="D1-MG"></a>
 
 38. The General Committee will meet at times as deemed necessary and appropriate by the Executive Committee.
 
@@ -472,11 +510,11 @@ PART FIVE – MEETINGS
 
 	39. Notice must be provided to all Officers of the General Committee in writing of any meeting of the General Committee no less than five Business Days prior to the relevant meeting.
 
-### Meetings of the Executive Committee
+### Meetings of the Executive Committee  <a name="MoEC"></a>
 
 40. The Executive Committee will meet at times as deemed necessary and appropriate by the Executive Committee.
 
-###  Annual General Meeting
+###  Annual General Meeting  <a name="AGM"></a>
 
 41. The Association will convene the Annual General Meeting during the mid semester break in semester two of the academic year.
 
@@ -492,7 +530,7 @@ PART FIVE – MEETINGS
 
 	43.1. Notice of the Annual General Meeting is to be posted on the social media of the Association, posted through the mailing list, and any public notice board controlled by the Association.
 
-### Special General Meeting
+### Special General Meeting  <a name="SGM"></a>
 
 44. The Association will convene a Special General Meeting as deemed necessary and appropriate by the Executive Committee.
 
@@ -504,9 +542,9 @@ PART FIVE – MEETINGS
 	
 	44.4. Notice of a Special General Meeting is to be posted on the website of the Association and any public notice board controlled by the Association.
 
-## Division Two – Conduct of Meetings
+## Division Two – Conduct of Meetings  <a name="D2-CoMeetings"></a>
 
-### Conduct of Meetings
+### Conduct of Meetings  <a name="CoMeetings"></a>
 
 45. The Association may make by-laws for the conduct of meetings.
 
@@ -524,7 +562,7 @@ PART FIVE – MEETINGS
 
 48. Quorum for meetings of the Executive Members and General Members will be equivalent to those required to pass an ordinary resolution.
 
-### Voting – Eligibility to Vote
+### Voting – Eligibility to Vote  <a name="V-EtV"></a>
 
 49. Persons eligible to vote will be:
 
@@ -532,135 +570,102 @@ PART FIVE – MEETINGS
 
 	49.2 In the case of meetings of the Executive Committee, all Executive Members will be eligible to vote.
 
-### Voting – Ordinary Resolutions
+### Voting – Ordinary Resolutions  <a name="V-OR"></a>
 
 50. Except where provided otherwise in this constitution or any by-law under this constitution, all voting will be required to be passed by an ordinary resolution.
 
->   51. An ordinary solution will be held to have passed where fifty per cent of
->   members plus one vote have voted in favor.
+51. An ordinary solution will be held to have passed where fifty per cent of members plus one vote have voted in favour.
 
->   52. Where a vote will be required to be passed by Special Resolution, voting
->   will be conducted to require the approval of not less than fifty percent of
->   the persons present at a meeting who are eligible to vote plus one vote.
+52. Where a vote will be required to be passed by Special Resolution, voting will be conducted to require the approval of not less than fifty percent of the persons present at a meeting who are eligible to vote plus one vote.
 
->   53. Ordinary resolutions may be proposed, discussed and voted upon in the
->   relevant meeting.
+53. Ordinary resolutions may be proposed, discussed and voted upon in the relevant meeting.
 
-### Voting – Special Resolutions
+### Voting – Special Resolutions  <a name="V-SR"></a>
 
->   54. Where a vote will be required to be passed by Special Resolution, voting
->   will be conducted to require the approval of not less than seventy-five
->   percent of the persons present at a meeting who are eligible to vote plus
->   one vote.
+54. Where a vote will be required to be passed by Special Resolution, voting will be conducted to require the approval of not less than seventy-five percent of the persons present at a meeting who are eligible to vote plus one vote.
 
->   55. Where a Special Resolution is to be voted upon in any meeting all
->   members eligible to vote must be given notice of, at least, 14 days.
+55. Where a Special Resolution is to be voted upon in any meeting all members eligible to vote must be given notice of, at least, 14 days.
 
->   55.1 Special resolutions may be passed at Executive Committee meetings,
->   Special General Meetings, Annual General meetings and any other relevant
->   meeting.
+55.1 Special resolutions may be passed at Executive Committee meetings, Special General Meetings, Annual General meetings and any other relevant meeting.
 
-### Minutes of Meetings
+### Minutes of Meetings  <a name="MoM"></a>
 
->   56. The Secretary must prepare or cause to be prepared minutes of all
->   business before all meetings of the Association.
+56. The Secretary must prepare or cause to be prepared minutes of all business before all meetings of the Association.
 
->   57. Minutes shall be kept in the form as deemed necessary and appropriate by
->   the General Committee and as required by the Act.
+57. Minutes shall be kept in the form as deemed necessary and appropriate by the General Committee and as required by the Act.
 
->   58. Minutes of meetings of the General Committee must be confirmed by the
->   General Committee at the subsequent meeting of the General Committee.
+58. Minutes of meetings of the General Committee must be confirmed by the General Committee at the subsequent meeting of the General Committee.
 
->   59. Minutes of an Annual General Meeting or Special General Meeting must be
->   confirmed by the General Committee at the subsequent meeting of the General
->   Committee.
+59. Minutes of an Annual General Meeting or Special General Meeting must be confirmed by the General Committee at the subsequent meeting of the General Committee.
 
-PART SIX – ELECTIONS
+PART SIX – ELECTIONS  <a name="P6"></a>
 ------
 
-### Conduct of Elections
+### Conduct of Elections  <a name="CofE"></a>
 
 60. The Association may make By-Laws for the conduct of elections.
 
-### Timing of Elections
+### Timing of Elections  <a name="ToE"></a>
 
 61. Elections must:
 
->   61.1. In the case of the General Election, be held once each calendar year
->   not before the last day of June and not later than the last day of August.
+	61.1. In the case of the General Election, be held once each calendar year not before the last day of June and not later than the last day of August.
 
->   61.3. In the case of a By-Election, be held as deemed necessary and
->   appropriate by the Executive Committee
+	61.3. In the case of a By-Election, be held as deemed necessary and appropriate by the Executive Committee
 
-### Notice of Elections – Voting
+### Notice of Elections – Voting  <a name="NoE-V"></a>
 
->   62. The Executive Committee will compile a list of nominations to be voted
->   upon at the Annual General meeting or any other relevant meeting where
->   by-elections are held.
+62. The Executive Committee will compile a list of nominations to be voted upon at the Annual General meeting or any other relevant meeting where by-elections are held.
 
-62.1 All General Members are eligible to vote at elections.
+	62.1. All General Members are eligible to vote at elections.
 
->   63. Notice of the opening of nominees are to be posted on the social media
->   of the Association at least 14 days prior to the election. The notice must
->   specify:
+63. Notice of the opening of nominees are to be posted on the social media of the Association at least 14 days prior to the election. The notice must specify:
 
->   63.1 That voting is conducted subject to this Constitution and any relevant
->   By-Law;
+	63.1 That voting is conducted subject to this Constitution and any relevant By-Law;
 
->   63.2 How Members may access this Constitution and any relevant By-Law;
+	63.2 How Members may access this Constitution and any relevant By-Law;
 
->   63.3 The period for which voting is open, including the closing date of
->   voting;
+	63.3 The period for which voting is open, including the closing date of voting;
 
->   63.4 Who is eligible to vote;
+	63.4 Who is eligible to vote;
 
->   63.5 How a person may vote; and
+	63.5 How a person may vote; and
 
->   63.6 Any other requirements for voting.
+	63.6 Any other requirements for voting.
 
-Voting – Secret Ballot
+#### Voting – Secret Ballot
 
 64. All voting for all elections must be done by secret ballot.
 
-PART SEVEN – AMENDMENTS AND BY- LAWS
+PART SEVEN – AMENDMENTS AND BY- LAWS  <a name="P7"></a>
 ------
 
-###  Alterations to the Constitution
+###  Alterations to the Constitution  <a name="AttC"></a>
 
->   65. This Constitution may be amended or repealed by Special Resolution at an
->   Annual General Meeting or Special General Meeting.
+65. This Constitution may be amended or repealed by Special Resolution at an Annual General Meeting or Special General Meeting.
 
->   65. Any Member eligible to vote at an Annual General Meeting through the
->   Executive Committee, must provide notice of any vote to adopt, amend or
->   repeal any By-Law no later than 14 calendar days prior to the relevant
->   meeting.
+66. Any Member eligible to vote at an Annual General Meeting through the Executive Committee, must provide notice of any vote to adopt, amend or repeal any By-Law no later than 14 calendar days prior to the relevant meeting.
 
->   66. Any notice of an amendment to this Constitution must set out:
+67. Any notice of an amendment to this Constitution must set out:
 
->   66.1 The terms of the proposed amendment;
+	 67.1 The terms of the proposed amendment;
 
->   66.2 The intended effect of the proposed amendment;
+	 67.2 The intended effect of the proposed amendment;
 
->   66.3 A statement of whether the proposed amendment complies with the
->   Objectives of the Association currently in force; and
+	 67.3 A statement of whether the proposed amendment complies with the Objectives of the Association currently in force; and
 
->   66.4 Any other matter relevant to the proposed amendment.
+	67.4 Any other matter relevant to the proposed amendment.
 
->   67. The amendments shall subsequently be approved by the Executive
->   Committee.
+68. The amendments shall subsequently be approved by the Executive Committee.
 
->   67.1If amendments are not approved they will be of no effect.
+	68.1. If amendments are not approved they will be of no effect.
 
-### By – Laws
+### By – Laws  <a name="B-L"></a>
 
->   68. Subject to this Constitution, the Association may make By-Laws for any
->   matter incidental to this Constitution or any of the functions or powers of
->   the Association.
+69. Subject to this Constitution, the Association may make By-Laws for any matter incidental to this Constitution or any of the functions or powers of the Association.
 
-69. The Association may adopt, amend or repeal By-Laws by Special Resolution.
+70. The Association may adopt, amend or repeal By-Laws by Special Resolution.
 
->   70. Any adoption, amendment or repeal of any By-Law must be ratified by
->   Ordinary Resolution at the immediately following Annual General Meeting or
->   Special General Meeting.
+71. Any adoption, amendment or repeal of any By-Law must be ratified by Ordinary Resolution at the immediately following Annual General Meeting or Special General Meeting.
 
 

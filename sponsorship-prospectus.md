@@ -35,7 +35,7 @@ Tier 1 outlines the proposed costs to sustain our organisation. Tier 2 & 3 are a
 
 Tier 2 & 3 funds will aim to fund influencers and industry professionals to come and share their knowledge, and also endeavour to send our most talented committee members to key international Blockchain conferences. 
 
-_For detailed annual expenses please see [our annual budget](sponsorship-budget.md)_
+_For detailed annual expenses please see [our annual budget](https://github.com/adelaideblockchain/admin/blob/master/sponsorship-budget.md)_
 
 Sponsorship Opportunities
 =======

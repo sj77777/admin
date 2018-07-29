@@ -19,6 +19,7 @@ This course will be based on familiarising with basic Blockchain concepts, funda
 This course will be geared towards those without a technological background.  Topics discussed will explore Blockchain’s inherent strengths and weaknesses, token economics and incentivization, practical use cases and an introduction to Blockchain start-up marketing and business strategy, and ICOs.
 Workshops will complement the lecture series to enable a more hands-on and collaborative approach.
 
+
 ### 2. Meetups ###
 
 We believe monthly meetups are the best way our organisation engages general interest about Blockchain technology in the Adelaide community. During our meetup events we present on recent trending news in the space and bring knowledgeable people to guide discussion that benefits everyone. Additionally, we use our discord group to gauge key interest areas and member queries in between meetups that may be good discussion points during events. This approach seeks to encourage enduring conversation. 

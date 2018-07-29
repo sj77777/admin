@@ -24,7 +24,7 @@ Tier Breakdown
 
 ## Tier 2 ##
 
-| Tier 1 | Cost | 
+| Tier 2 | Cost | 
 | ----- | -----:|
 | **Special / Expert Speaker:** (Panel events and talks)  Travel Bursary  Honorarium  Accommodation | 4 x $4,000 = $16,000 |
 | **Tier 2 Total** | $16,000 |

@@ -1,4 +1,4 @@
-##Checklist in preparation for the wanchain event. 
+## Checklist in preparation for the wanchain event. 
 
 - Stickers
   - On the day of the event, the name of every eventee will needed to be printed out for people to be able to put on them selves

@@ -52,4 +52,4 @@ Sponsorship will provide the following benefits:
 *	Acknowledgement of sponsorship at major events and on event video; and
 *	Access of our platform to bring representatives and host talks on topics pertinent to the sponsor.
 
-We look forward to working with you and if you have any queries in relation to the above prospectus please do not hesitate to contact us via our email adelaideblockchain@gmail.com.
+In general, we are open to negotiation with how sponsorship looks like for each entity that wishes to support Adelaide Blockchain's intiative. We look forward to working with you, so if you have any queries in relation to the above prospectus please do not hesitate to contact us via our email adelaideblockchain@gmail.com.

@@ -8,7 +8,7 @@ In situations where there are multiple people equally qualified and/or eager for
 ## Head of Operations
 1. Responsible for day to day operations for the overall organisation. 
 	This includes:
-	1.1 Ensuring all departments are communicating adequately. 
+&lt;p&gt; 1.1 Ensuring all departments are communicating adequately. 
 	1.2 Ensuring all departments are on schedule and are completing deliverables in line with the strategic goals set for the organisation. 
 	1.3 Being responsible for the build, execution, adaption and growth of strategic objectives for the organisation. 
 	1.4 Being responsible for all documentation that outlines not only the organisations over reaching objectives, processes and information, but for each department too. 

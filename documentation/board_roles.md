@@ -1,10 +1,11 @@
 ### Adelaide Blockchain Board Roles
 
 As the Head of various departments in Adelaide Blockchain, it's important to note that each department will constitute multiple individuals completing deliverables. Head of departments are responsible for the progression of work but aren't required to do all or most of the work. The hope is that we get a diverse range of individuals on the Board with different skillsets, opinions and ways of thinking to ensure the organisation can run in a manner that best suits the initiative. I do understand that some of you have time constraints/availability issues with all your commitments, so I hope if there is a fit, Adelaide Blockchain would be able to accommodate. 
+
 In general, the work in the organisation will be a collaborative effort, and as such people can help in any way they wish. From the list of Directors, a President, Treasurer and a Secretary will be picked. 
 In situations where there are multiple people equally qualified and/or eager for a particular position, co-head of departments is also an option. 
 
-Head of Operations
+## Head of Operations
 1. Responsible for day to day operations for the overall organisation. 
 	This includes:
 	1.1 Ensuring all departments are communicating adequately. 
@@ -17,7 +18,7 @@ Head of Operations
 	2.2 Personal conflicts within the organisation. 
 	2.3 Resolving deliverable liabilities due to project stagnation/abandonment. 
 	
-Head of Research and Development 
+## Head of Research and Development 
 1. Responsible for deliverables pertinent to all internal projects run by Adelaide Blockchain, which may be student group projects or code development required by the organisation.
 	This includes:
 	1.1 Final conception, design and build of projects. 
@@ -27,7 +28,7 @@ Head of Research and Development
 	2.1 Further expanding the scope of Adelaide Blockchain's research capabilities in line with the expansion of talent. 
 	2.2 Further the conception of new project ideas internally for students. 
 	
-Head of Marketing/Community 
+## Head of Marketing/Community 
 In general, Head of Marketing/Community is responsible for the production and delivery of all promotions, events and marketing for the organisation. 
 1. Responsible for social media output.
 	This includes:
@@ -39,13 +40,14 @@ In general, Head of Marketing/Community is responsible for the production and de
 	2.1 Banners, posters, business cards, t-shirts and other physical marketing material.
 3. Responsible for organising scope, logistics and general deliverables for events.
 
-Head of Education
+## Head of Education
 1. Responsible for all efforts in education, including:
 	1.1 Producing and delivering all lectures and workshops held during the semester. 
 	1.2 Updating content to new industry paradigms and to fit with changing demographics. 
 1.3 Continually developing method of education and adapt/strategize as necessary to ensure continual engagement in content.  
 	1.4 Working with the marketing team to conceive, prepare and execute engaging content for bootcamps and hackathons.  
-Head of External Communications
+	
+## Head of External Communications
 1. Responsible for external communications from industry, academia, partners, sponsors and individuals. 
 	1.1 Required to promptly respond and continue all conversations (whether they are meetings, emails etc) delegated from various board members, as required.
 	1.2 Provide feedback or necessary information to relevant Directors of the Board, in a timely manner, once agreements/decisions are made.

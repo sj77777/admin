@@ -54,7 +54,7 @@ In general, Head of Marketing/Community is responsible for the production and de
 2. Responsible for taking the initiative in reaching out to possible partners or other entities that would be possibly interested in sponsoring/partnering with Adelaide Blockchain. 
 	2.1 Head of External Communications must first liase with the President to confirm before reaching out. 
 
-Head of School Outreach
+## Head of School Outreach
 In general, responsible for all initiatives involving secondary schools or other outreach events of similarity. Head of School outreach, although apart of the Board. 
 1. Responsible for reaching out to entities interested in STEM (our focus is on Blockchain).
 2. Must work with relevant departments (education and marketing), to gauge suitability and event timelines.

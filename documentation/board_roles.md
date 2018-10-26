@@ -1,4 +1,4 @@
-### Adelaide Blockchain Board Roles
+# Adelaide Blockchain Board Roles
 
 As the Head of various departments in Adelaide Blockchain, it's important to note that each department will constitute multiple individuals completing deliverables. Head of departments are responsible for the progression of work but aren't required to do all or most of the work. The hope is that we get a diverse range of individuals on the Board with different skillsets, opinions and ways of thinking to ensure the organisation can run in a manner that best suits the initiative. I do understand that some of you have time constraints/availability issues with all your commitments, so I hope if there is a fit, Adelaide Blockchain would be able to accommodate. 
 

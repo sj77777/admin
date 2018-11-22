@@ -1,5 +1,6 @@
 # AdlBlockchain Minutes 18/11/2018
-#### Attendees: Paul Pounendis, Lucas Sargent, Ruslan Mugalimov, Barb Vrettos, Alex Bagent, Ivan Seares Nunes. 
+#### Attendees: Paul Pounendis, Sarah Jamieson, Ruslan Mugalimov, Barbara Vrettos, Ivan Seares Nunes, David Ng 
+### First Board Meeting
 ## Meeting Time 
 -	Monthly
 -	Sunday 1-3pm is now the agreed upon meeting time. 
@@ -38,6 +39,9 @@
 
 #### Treasurer:
 - Ivan  
+
+#### President:
+- Paul
 
 #### Head of operations:
 - Paul  

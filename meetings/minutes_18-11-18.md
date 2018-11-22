@@ -1,6 +1,6 @@
-# AdlBlockchain Minutes 18/11/2018
+# Adelaode Blockchain Incorporated - Minutes 18/11/2018
 #### Attendees: Paul Pounendis, Sarah Jamieson, Ruslan Mugalimov, Barbara Vrettos, Ivan Seares Nunes, David Ng 
-### First Board Meeting
+### First Board Meeting - No actions from previous meetings
 ## Meeting Time 
 -	Monthly
 -	Sunday 1-3pm is now the agreed upon meeting time. 

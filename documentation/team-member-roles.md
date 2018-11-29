@@ -33,6 +33,7 @@ We run many events during the year, and we need help running them! General Commi
 
 We will be running an event in the coming weeks bringing together everyone who has successfully applied for positions, giving the opportunity for the team to meet our potential new members before we formalise positions. 
 
+Alt-H1
 ======
 
 Adelaide Blockchain Incorporated is dedicated to engage and educate on Blockchain technology, and scale the enormous opportunity this industry presents to as many people across South Australia, Australia and around the world. We are a highly ambitious group of people with an equally audacious roadmap and set of goals. 

@@ -2,9 +2,9 @@
 Adelaide Blockchain Team Member Roles
 ======
 
-Adelaide Blockchain Incorporated is dedicated to engage and educate on Blockchain technology, and scale the enormous opportunity this industry presents to as many people across South Australia, Australia and around the world. We are a highly ambitious group of people with an equally audacious roadmap and set of goals. We expect high calibre individuals who can actively contribute to Adelaide Blockchain and in return our organisation will provide extraordinary opportunities for internships, employment and influential industry networks. Keep this in mind when applying. Good luck!
+Adelaide Blockchain Incorporated is dedicated to engage and educate on Blockchain technology, and scale the enormous opportunity this industry presents to as many people across South Australia, Australia and around the world. We are a highly ambitious group of people with an equally audacious roadmap and set of goals. We expect high calibre individuals who can actively contribute to Adelaide Blockchain and in return our organisation will provide extraordinary opportunities for internships, employment and influential industry networks. Our Association is student-run, so positions will be allocated predominantly to students, but positions will be still be allocated for exceptional individuals even if they aren't! Keep all this in mind when applying. Good luck!
 
-### Blockchain developer/educator 5-10 people
+### Blockchain developer/educator
 
 Blockchain developers and educators at Adelaide Blockchain will be apart of the core R&D team.
 
@@ -14,7 +14,7 @@ The internal developer team will also have access to our Global Blockchain netwo
 
 Expected hours: 3-10 hours per week. 
 
-### Marketing Officer 1-2 People
+### Marketing Officer 
 
 Marketing officers are required to work with the Co-Head's of Marketing, Ruslan Mugalimov and Sarah Jamieson, in order to consistently send out great content and marketing material about various topics in the Blockchain industry, exposure to our audience of the initiatives taking place at Adelaide Blockchain and the various events that we run. 
 

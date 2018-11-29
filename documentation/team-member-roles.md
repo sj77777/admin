@@ -1,5 +1,5 @@
 
-Alt-Adelaide Blockchain Team Member Roles
+Adelaide Blockchain Team Member Roles
 ======
 
 Adelaide Blockchain Incorporated is dedicated to engage and educate on Blockchain technology, and scale the enormous opportunity this industry presents to as many people across South Australia, Australia and around the world. We are a highly ambitious group of people with an equally audacious roadmap and set of goals. We expect high calibre individuals who can actively contribute to Adelaide Blockchain and in return our organisation will provide extraordinary opportunities for internships, employment and influential industry networks. Keep this in mind when applying. Good luck!
